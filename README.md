@@ -48,7 +48,7 @@ Transformer의 $O(N^2)$ 복잡도, 막대한 메모리 요구량은 Long-Context
 | 2025/9/16 |  Part 1. | 미정 | |
 
 ## 💡 학습 자원 (Learning Resources)
-**우리의 지식 나침반이 되어줄 자료들**
+
 #### 핵심 Survey 논문
 - [Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://arxiv.org/abs/2406.08248)
 - [Speculative Decoding and Beyond: An In-Depth Survey of Techniques](https://arxiv.org/abs/2406.08159)
