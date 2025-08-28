@@ -15,7 +15,9 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-<img src="./speed_always_wins.png" alt="speed always wins" width="600"/>
+<div align="center">
+  <img src="./speed_always_wins.png" alt="speed always wins" width="600"/>
+</div>
 
 > 🚀 `EfficientLLM: Speed always wins repository`에 오신 것을 환영합니다! 저희는 `Transformer` 아키텍처의 근본적인 비효율성을 탐구하고, `Sparse Attention`과 `Speculative Decoding` 같은 최신 최적화 기술들을 깊이 있게 다룹니다. 우리의 목표는 `Large Language Models`의 성능 장벽을 돌파하는 것입니다. `LLM`을 더 빠르고, 더 효율적이며, 더 쉽게 접근할 수 있도록 만드는 여정에 함께해주세요!
 
@@ -55,7 +57,7 @@ gantt
 ## 💻 주차별 활동 (Activity History)
 
 | 날짜 | 내용 | 발표자 | 영상 |
-| -------- | -------- | ---- |
+| -------- | -------- | ---- | ---- |
 | 2025/9/9 | OT: Why Efficient LLM? | 전경호 | |
 | 2025/9/16 |  Part 1. | 미정 | |
 
