@@ -15,7 +15,7 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-![img](./speed_always_wins.png)
+<img src="./speed_always_wins.png" alt="speed always wins" width="600"/>
 
 > 🚀 `EfficientLLM: Speed always wins repository`에 오신 것을 환영합니다! 저희는 `Transformer` 아키텍처의 근본적인 비효율성을 탐구하고, `Sparse Attention`과 `Speculative Decoding` 같은 최신 최적화 기술들을 깊이 있게 다룹니다. 우리의 목표는 `Large Language Models`의 성능 장벽을 돌파하는 것입니다. `LLM`을 더 빠르고, 더 효율적이며, 더 쉽게 접근할 수 있도록 만드는 여정에 함께해주세요!
 
@@ -35,7 +35,7 @@ Transformer의 $O(N^2)$ 복잡도, 막대한 메모리 요구량은 Long-Context
 
 | 역할          | 이름 |  기술 스택 / 관심 분                                                                 | LinkedIn                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 전경호 | 'Computer Architecture' 'LLM Inference' 'PIM/NPU' |
+| **Project Manager** | 전경호 | Computer Architecture, LLM Inference, PIM/NPU | [LinkedIn](https://www.linkedin.com/in/kyoungho-jeun-590295218/)
 | **Member** | 미정 | 'LLM' |                   
 
 
@@ -54,10 +54,10 @@ gantt
 
 ## 💻 주차별 활동 (Activity History)
 
-| 날짜 | 내용 | 발표자 | 영상
+| 날짜 | 내용 | 발표자 | 영상 |
 | -------- | -------- | ---- |
-| 2025/9/9 | OT: Why Efficient LLM? | 전경호 | 
-| 2025/9/16 |  Part 1. | 미정 | 
+| 2025/9/9 | OT: Why Efficient LLM? | 전경호 | |
+| 2025/9/16 |  Part 1. | 미정 | |
 
 ## 💡 학습 자원 (Learning Resources)
 **우리의 지식 나침반이 되어줄 자료들**
