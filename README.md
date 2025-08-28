@@ -1,5 +1,3 @@
-# 10th-template
-
 <h1 align="center"> EfficientLLM: Speed always wins </h1>
 
 <div align="center">
