@@ -40,20 +40,6 @@ Transformer의 $O(N^2)$ 복잡도, 막대한 메모리 요구량은 Long-Context
 | **Project Manager** | 전경호 | Computer Architecture, LLM Inference, PIM/NPU | [LinkedIn](https://www.linkedin.com/in/kyoungho-jeun-590295218/)
 | **Member** | 미정 | 'LLM' |                   
 
-
-## 🚀 프로젝트 로드맵 (Project Roadmap)
-```mermaid
-gantt
-    title 2025 AI 프로젝트 여정
-    section 핵심 마일스톤
-    이론 연구       :a1, 2025-09-01, 30d
-    MVP 개발        :a2, after a1, 45d
-    프로덕션 적용    :a3, after a2, 30d
-    section 부가 활동
-    기술 세미나     :2025-10-15, 7d
-    해커톤         :2025-11-20, 3d
-```
-
 ## 💻 주차별 활동 (Activity History)
 
 | 날짜 | 내용 | 발표자 | 영상 |
