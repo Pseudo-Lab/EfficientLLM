@@ -68,8 +68,8 @@ Transformer의 $O(N^2)$ 복잡도, 막대한 메모리 요구량은 Long-Context
 ## 💡 학습 자원 (Learning Resources)
 
 #### 핵심 Survey 논문
-- [Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://arxiv.org/abs/2406.08248)
-- [Speculative Decoding and Beyond: An In-Depth Survey of Techniques](https://arxiv.org/abs/2406.08159)
+- [Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://www.arxiv.org/abs/2508.09834)
+- [Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding](https://arxiv.org/abs/2401.07851)
 
 #### 논문 탐색을 위한 레포지토리
 - [Awesome-Efficient-Arch](https://github.com/weigao266/Awesome-Efficient-Arch)
