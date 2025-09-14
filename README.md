@@ -42,7 +42,7 @@ Transformer의 $O(N^2)$ 복잡도, 막대한 메모리 요구량은 Long-Context
 | **Member** | 김승우 | - | 
 | **Member** | 김형균 | [LinkedIn](https://www.linkedin.com/in/hyeongkyun-kaden-kim/) | 
 | **Member** | 박재욱 | [LinkedIn](https://www.linkedin.com/in/lechuckpark/) | 
-| **Member** | 이승아 | - | 
+| **Member** | 이승아 | [LinkedIn](https://www.linkedin.com/in/seungah-lee-79a748245/) | 
 
 ## 💻 주차별 활동 (Activity History)
 - 시간: 매주 화요일 20:00-22:00
