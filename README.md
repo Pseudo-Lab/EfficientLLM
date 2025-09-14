@@ -55,14 +55,14 @@ Transformer의 $O(N^2)$ 복잡도, 막대한 메모리 요구량은 Long-Context
 | 2025/9/23 |  [vLLM](https://arxiv.org/abs/2309.06180) | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
 | 2025/9/30 |   | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
 | 2025/10/7 |  | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
-| 2025/10/14 |   | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
-| 2025/10/21 |   | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
-| 2025/10/30 |   | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
-| 2025/11/4 |   | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
-| 2025/11/11 |  | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
-| 2025/11/18 |  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
-| 2025/11/25 |   | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
-| 2025/12/2 |   | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
+| 2025/10/14 |   | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
+| 2025/10/21 |   | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
+| 2025/10/30 |   | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
+| 2025/11/4 |   | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
+| 2025/11/11 |  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
+| 2025/11/18 |  | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
+| 2025/11/25 |   | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
+| 2025/12/2 |   | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
 | 2025/12/9 |  | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
 | 2025/12/16 |  | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
 | 2025/12/23 |  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
