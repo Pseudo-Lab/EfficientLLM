@@ -52,20 +52,20 @@ Transformer의 $O(N^2)$ 복잡도, 막대한 메모리 요구량은 Long-Context
 | - | - | -------------- | - |
 | 2025/9/9 | OT | 전경호 | |
 | 2025/9/16 | [Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://www.arxiv.org/abs/2508.09834) <br>[Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding](https://arxiv.org/abs/2401.07851)  | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
-| 2025/9/23 |   | 미정 | |
-| 2025/9/30 |   | 미정 | |
-| 2025/10/7 |  | 미정 | |
-| 2025/10/14 |   | 미정 | |
-| 2025/10/21 |   | 미정 | |
-| 2025/10/30 |   | 미정 | |
-| 2025/11/4 |   | 미정 | |
-| 2025/11/11 |  | 미정 | |
-| 2025/11/18 |  | 미정 | |
-| 2025/11/25 |   | 미정 | |
-| 2025/12/2 |   | 미정 | |
-| 2025/12/9 |  | 미정 | |
-| 2025/12/16 |  | 미정 | |
-| 2025/12/23 |  | 미정 | |
+| 2025/9/23 |  [vLLM](https://arxiv.org/abs/2309.06180) | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
+| 2025/9/30 |   | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
+| 2025/10/7 |  | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
+| 2025/10/14 |   | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
+| 2025/10/21 |   | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
+| 2025/10/30 |   | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
+| 2025/11/4 |   | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
+| 2025/11/11 |  | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
+| 2025/11/18 |  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
+| 2025/11/25 |   | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
+| 2025/12/2 |   | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
+| 2025/12/9 |  | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
+| 2025/12/16 |  | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
+| 2025/12/23 |  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
 
 ## 💡 학습 자원 (Learning Resources)
 
