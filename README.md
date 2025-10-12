@@ -50,7 +50,7 @@ Transformer의 $O(N^2)$ 복잡도, 막대한 메모리 요구량은 Long-Context
 | 날짜 | 내용 | 발표자 | 영상 |
 | - | - | -------------- | - |
 | 2025/9/9 | OT | 전경호 | |
-| 2025/9/16 | [Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://www.arxiv.org/abs/2508.09834) <br>[Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding](https://arxiv.org/abs/2401.07851)  | <nobr>전경호</nobr> <br> <nobr>길재은</nobr> | |
+| 2025/9/16 | [Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://www.arxiv.org/abs/2508.09834)  | <nobr>전경호</nobr> | |
 | 2025/9/23 |  [vLLM](https://arxiv.org/abs/2309.06180) | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
 | 2025/9/30 | [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)<br> [MInference](https://arxiv.org/abs/2407.02490)+[MMInference](https://arxiv.org/abs/2504.16083)  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
 | 2025/10/7 | --Korean Thanksgiving Day-- | | |
