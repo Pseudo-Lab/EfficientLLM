@@ -51,8 +51,8 @@ Transformer의 $O(N^2)$ 복잡도, 막대한 메모리 요구량은 Long-Context
 | - | - | -------------- | - |
 | 2025/9/9 | OT | 전경호 | |
 | 2025/9/16 | [Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://www.arxiv.org/abs/2508.09834)  | <nobr>전경호</nobr> | |
-| 2025/9/23 |  [vLLM](https://arxiv.org/abs/2309.06180) | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | |
-| 2025/9/30 | [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)<br> [MInference](https://arxiv.org/abs/2407.02490)+[MMInference](https://arxiv.org/abs/2504.16083)  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
+| 2025/9/23 |  [vLLM](https://arxiv.org/abs/2309.06180) | <nobr>박재욱</nobr> <br> <nobr>이승아</nobr> | [vLLM](https://youtu.be/CXDoHWb0QOs) |
+| 2025/9/30 | [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)<br> [MInference](https://arxiv.org/abs/2407.02490)+[MMInference](https://arxiv.org/abs/2504.16083)  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | [SmoothQuant](https://youtu.be/dUzFAydJalM?si=fZyqeNE0kZ93btxV)</nobr> <br> <nobr>[MMInference](https://youtu.be/q1i1NAm8z1k?si=1RK4Apiu8oKHwCWC) |
 | 2025/10/7 | --Korean Thanksgiving Day-- | | |
 | 2025/10/14 | [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367) <br> [SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958) | <nobr>전경호</nobr> <br> <nobr> Tech Talk</nobr> | |
 | 2025/10/21 |   | <nobr>이승아</nobr> <br> <nobr>박재욱</nobr> | |
