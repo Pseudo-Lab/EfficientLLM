@@ -58,13 +58,12 @@ Transformer의 $O(N^2)$ 복잡도, 막대한 메모리 요구량은 Long-Context
 | 2025/10/30 | [EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty](https://arxiv.org/abs/2401.15077)<br> [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://arxiv.org/abs/2505.09343)  | <nobr>이승아</nobr> <br> <nobr>박재욱</nobr> | |
 | 2025/11/4 | [MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention](https://arxiv.org/abs/2504.16083)<br> [FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference](https://arxiv.org/abs/2502.20766)  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
 | 2025/11/11 | [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774)<br> [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089)  | <nobr>전경호</nobr> <br> <nobr>김민수</nobr> | |
-| 2025/11/11 |   | <nobr>이승아</nobr> | |
-| 2025/11/18 |  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
-| 2025/11/25 |  | <nobr>전경호</nobr> <br> <nobr>김민수</nobr> | |
-| 2025/12/2 |   | <nobr>이승아</nobr>| |
-| 2025/12/9 |   | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
-| 2025/12/16 |  | <nobr>전경호</nobr> <br> <nobr>김민수</nobr> | |
-| 2025/12/23 |  | <nobr>이승아</nobr>  | |
+| 2025/11/18 |   | <nobr>이승아</nobr> | |
+| 2025/11/25 |  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
+| 2025/12/2 |  | <nobr>전경호</nobr> <br> <nobr>김민수</nobr> | |
+| 2025/12/9 |   | <nobr>이승아</nobr>| |
+| 2025/12/16 |   | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
+| 2025/12/23 |  | <nobr>전경호</nobr> <br> <nobr>김민수</nobr> | |
 
 ## 💡 학습 자원 (Learning Resources)
 
