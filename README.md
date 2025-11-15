@@ -56,8 +56,8 @@ Transformer의 $O(N^2)$ 복잡도, 막대한 메모리 요구량은 Long-Context
 | 2025/10/7 | --Korean Thanksgiving Day-- | | |
 | 2025/10/14 | [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367) <br> [SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958) | <nobr>전경호</nobr> <br> <nobr> Tech Talk</nobr> | |
 | 2025/10/21 |   | <nobr>이승아</nobr> <br> <nobr>박재욱</nobr> | |
-| 2025/10/30 | [MMInference](https://arxiv.org/abs/2504.16083)  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
-| 2025/11/4 |   | <nobr>전경호</nobr> <br> <nobr>이승아</nobr> | |
+| 2025/10/30 | [MMInference](https://arxiv.org/abs/2504.16083)<br> [FlexPrefill](https://arxiv.org/abs/2502.20766)  | <nobr>김승우</nobr> <br> <nobr>김형균</nobr> | |
+| 2025/11/4 | [Medusa](https://arxiv.org/abs/2401.10774)<br> [Native Sparse Attention](https://arxiv.org/abs/2502.11089)  | <nobr>전경호</nobr> <br> <nobr>김민수</nobr> | |
 | 2025/11/11 |   | <nobr>박재욱</nobr> <br> <nobr>김승우</nobr> | |
 | 2025/11/18 |  | <nobr>김형균</nobr> <br> <nobr>전경호</nobr> | |
 | 2025/11/25 |  | <nobr>이승아</nobr> <br> <nobr>박재욱</nobr> | |
