@@ -74,8 +74,9 @@ Transformer의 $O(N^2)$ 복잡도, 막대한 메모리 요구량은 Long-Context
 #### 논문 탐색을 위한 레포지토리
 - [Awesome-Efficient-Arch](https://github.com/weigao266/Awesome-Efficient-Arch)
 - [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM)
+- [Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference)
+- [LLM-inference-optimization-paper](https://github.com/chenhongyu2048/LLM-inference-optimization-paper)
 - [SpeculativeDecodingPapers](https://github.com/hemingkx/SpeculativeDecodingPapers)
-
 
 ## 🌱 참여 안내 (How to Engage)
 - 빌더로 참여 — 프로젝트 기획·운영 주도
